@@ -1,5 +1,4 @@
 
-// C program to calculate the First and 
 // Follow sets of a given grammar 
 #include<stdio.h> 
 #include<ctype.h> 
